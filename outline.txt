@@ -1,2 +1,6 @@
 class and object (topics to be cover )
 calss has data/attribut and funt/method
+why python is object oreinted programming 
+every thing in python is object that is made b building class 
+we can make own class and use multiple time in ohter repo and projects 
+lanchain is an example of this 
