@@ -1,0 +1,2 @@
+class and object (topics to be cover )
+calss has data/attribut and funt/method
