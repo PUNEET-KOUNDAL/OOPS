@@ -4,3 +4,11 @@ why python is object oreinted programming
 every thing in python is object that is made b building class 
 we can make own class and use multiple time in ohter repo and projects 
 lanchain is an example of this 
+
+
+
+end to end project (chatbook class cover )
+   > encapsulation
+   >getter and setter 
+   > statisc method
+   >
